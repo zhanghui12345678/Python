@@ -3,4 +3,4 @@ git is free free software.
 my name is zh.
 this is a test file.
 abcdefg
-
+git tracks changes.
